@@ -27,6 +27,7 @@ img {
   border-radius: 12px;
   border: 1px solid rgba(51, 46, 46, 0.836);
   box-shadow: 5px 5px 1px 1px black;
+  box-sizing: border-box;
 }
 .conteudo .texto {
   max-width: 32ch;
